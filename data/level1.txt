@@ -1,0 +1,13 @@
+100, 500, 0, 0,100,100,0, 0,100,100,0, 0,20,20,0 ,0,20,20,0, 1.5, 300,
+
+
+
+capacitance,
+ejection threshold,
+number of balloons,
+charges plate_L (posM,posF,negM,negF),
+charges plate_R (posM,posF,negM,negF),
+charges plate_T (posM,posF,negM,negF),
+charges plate_B (posM,posF,negM,negF),
+target voltage,
+target time
